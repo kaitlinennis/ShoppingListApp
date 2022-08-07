@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60950790141",
+    "project_id": "fir-hw07-a1e4e",
+    "storage_bucket": "fir-hw07-a1e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60950790141:android:84684f517e7dc445752394",
+        "android_client_info": {
+          "package_name": "com.example.ennis_hw07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60950790141-mud8068o8en7hmk7ejq7m7lnldbta7gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASz3exukHc2DQ1r7Q7mESk5vn6rCcqp3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60950790141-mud8068o8en7hmk7ejq7m7lnldbta7gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
